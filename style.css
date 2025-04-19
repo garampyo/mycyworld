@@ -25,7 +25,7 @@ body {
 #container {
   width: 100%;
   height: 100vh;
-  background: url("https://i.pinimg.com/736x/cc/3f/8b/cc3f8b2af2cc00362d90944f11703c29.jpg") no-repeat center/cover;
+  background: url("https://cdn.inflearn.com/public/files/posts/38f50939-dbdc-4b1c-b4f8-72144342026f/%EB%B0%B0%EA%B2%BD.png") no-repeat center/cover;
   position: fixed;
   top: 0;
   left: 0;
@@ -81,7 +81,7 @@ body {
 #inner-left .inner-left-body .left-body-title .title-img {
   width: 148px;
   height: 133px;
-  background: url("https://i.pinimg.com/736x/58/5c/8a/585c8a64c96170e3c1fc52b02f7ae8f0.jpg") center/cover no-repeat;
+  background: url("https://www.sisaweek.com/news/photo/201701/85528_65179_4558.jpg") center/cover no-repeat;
 }
 #inner-left .inner-left-body .left-body-title .title-line {
   width: 100%;
